@@ -1,0 +1,43 @@
+html {
+  background-color: aquamarine;
+}
+
+h1 {
+  color:red;
+  font-size: 45px;
+  font-face: Arial;
+  text-align: center;
+}
+
+h2 {
+  color:blue;
+  font-size: 30px;
+  font-family: sans-serif;
+  text-align: center; 
+}
+p {
+   color:black;
+  font-size: 16px;
+  font-family: Arial;
+  text-align: justify;
+  line-height: 2;
+}
+.img-prin {
+  border-color: red;
+  border-width: 5px;
+  border-style: solid;
+  display: block;
+  width: 500px;
+  margin: 0 auto,
+} 
+.img-sec {
+  border-color: red;
+  border-width: 5px;
+  border-style: solid;
+  border-radius: 50%;
+  display: block;
+  width: 500px;
+  margin: 0 auto,
+} 
+
+
